@@ -4,7 +4,7 @@ Answer - assign out = in;
 
 Question 2 - Wire4
 
-Answer - module top_module( 
+Answer - ``` module top_module( 
     input a,b,c,
     output w,x,y,z );
     
@@ -13,7 +13,7 @@ Answer - module top_module(
     assign y = b; 
     assign z = c; 
 
-endmodule
+endmodule ``` 
 
 Question 3 - Notgate
 
